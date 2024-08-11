@@ -1,0 +1,770 @@
+[
+  {
+    "comboUID": "45784f5e-9e9b-4f12-849c-ba7bd3b8b291",
+    "comboName": "tester combo",
+    "displayName": "tester combo",
+    "skuId": "5188",
+    "status": "ENABLED",
+    "defaultMedia": "fa1be3d3-6160-4fa9-88a8-b10e76dbc95c",
+    "media": [],
+    "metadataMap": {
+      "cardSize": {
+        "name": "cardSize",
+        "values": ["small"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "productModel": {
+        "name": "productModel",
+        "values": ["PIZZA"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "filterKeys": {
+        "name": "filterKeys",
+        "values": ["NonVeg"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "menuCode": {
+        "name": "menuCode",
+        "values": ["kahs888"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "isEDVCombo": {
+        "name": "isEDVCombo",
+        "values": ["YES"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": null
+      },
+      "menuCategoryCode": {
+        "name": "menuCategoryCode",
+        "values": ["MCT0001"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "foodLabel": {
+        "name": "foodLabel",
+        "values": ["COMBO"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      }
+    },
+    "currentWorkflowId": null,
+    "hasDraft": true,
+    "createdAt": "2024-06-06-07:29",
+    "createdBy": "tesla",
+    "lastModifiedAt": "2024-06-11-06:01",
+    "lastModifiedBy": "tesla"
+  },
+  {
+    "comboUID": "9c942ee8-0918-48f1-afb5-f5dda55dba3c",
+    "comboName": "shree combo",
+    "displayName": "shree combo",
+    "skuId": "6072",
+    "status": "ENABLED",
+    "defaultMedia": "d908ca87-a243-439b-beda-caf65540eefc",
+    "media": [],
+    "metadataMap": {
+      "cardSize": {
+        "name": "cardSize",
+        "values": ["small"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "productModel": {
+        "name": "productModel",
+        "values": ["PIZZA_MANIA"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "filterKeys": {
+        "name": "filterKeys",
+        "values": ["nonbaked"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "menuCode": {
+        "name": "menuCode",
+        "values": ["uy989"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "isEDVCombo": {
+        "name": "isEDVCombo",
+        "values": ["YES"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": null
+      },
+      "menuCategoryCode": {
+        "name": "menuCategoryCode",
+        "values": ["MCT0004"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "foodLabel": {
+        "name": "foodLabel",
+        "values": ["COMBO"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      }
+    },
+    "currentWorkflowId": null,
+    "hasDraft": true,
+    "createdAt": "2024-06-06-07:26",
+    "createdBy": "tesla",
+    "lastModifiedAt": "2024-06-06-07:26",
+    "lastModifiedBy": "tesla"
+  },
+  {
+    "comboUID": "14bd78b1-7217-4b69-a273-4724744c3156",
+    "comboName": "Test Comboa",
+    "displayName": "samplea",
+    "skuId": "8885",
+    "status": "ENABLED",
+    "defaultMedia": null,
+    "media": null,
+    "metadataMap": {
+      "cardSize": {
+        "name": "cardSize",
+        "values": ["small"],
+        "label": "a",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "productModel": {
+        "name": "productModel",
+        "values": ["PIZZA_MANIA"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "filterKeys": {
+        "name": "filterKeys",
+        "values": ["NonVeg"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "menuCode": {
+        "name": "menuCode",
+        "values": ["a"],
+        "label": "cedcced",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "isEDVCombo": {
+        "name": "isEDVCombo",
+        "values": ["YES"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": null
+      },
+      "menuCategoryCode": {
+        "name": "menuCategoryCode",
+        "values": ["MCT0001"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "foodLabel": {
+        "name": "foodLabel",
+        "values": ["VEG"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      }
+    },
+    "currentWorkflowId": null,
+    "hasDraft": true,
+    "createdAt": "2024-05-31-13:32",
+    "createdBy": "tesla",
+    "lastModifiedAt": "2024-06-05-05:43",
+    "lastModifiedBy": "tesla"
+  },
+  {
+    "comboUID": "12a4f790-ab75-4df4-aac7-331a3080eb57",
+    "comboName": "TestDC",
+    "displayName": "TestDC",
+    "skuId": "9729",
+    "status": "ENABLED",
+    "defaultMedia": "96a996fd-f87e-41a4-a040-b1b1cad2c3c2",
+    "media": [
+      "05b7a619-7ca5-49d7-abb4-92f95d442eca",
+      "75e06491-f9fc-4d09-92ce-ade2a51f1534",
+      "f7926c2b-fd39-464b-8f51-98f5c4d370d6",
+      "d96437ff-8861-4d87-901e-f10f743b0545",
+      "6e507993-b034-45a3-931a-ea1a4bdda8ab"
+    ],
+    "metadataMap": {
+      "productModel": {
+        "name": "productModel",
+        "values": ["COMBO"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "filterKeys": {
+        "name": "filterKeys",
+        "values": ["baked"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "menuCategoryCode": {
+        "name": "menuCategoryCode",
+        "values": ["MCT0006"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "foodLabel": {
+        "name": "foodLabel",
+        "values": ["NONVEG"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "IsEdv49": {
+        "name": "IsEdv49",
+        "values": ["TRUE"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": null
+      },
+      "sample": {
+        "name": "sample",
+        "values": ["aa"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": null
+      },
+      "disableClick": {
+        "name": "disableClick",
+        "values": ["true", "false"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": null
+      },
+      "cardSize": {
+        "name": "cardSize",
+        "values": ["large"],
+        "label": "a",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "isEDVMixMatch": {
+        "name": "isEDVMixMatch",
+        "values": ["TRUE"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": null
+      },
+      "EDVPriceZoneId": {
+        "name": "EDVPriceZoneId",
+        "values": ["EDVPriceZoneId"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": null
+      },
+      "menuCode": {
+        "name": "menuCode",
+        "values": ["CMB99999"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "isEDVCombo": {
+        "name": "isEDVCombo",
+        "values": ["NO"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": null
+      },
+      "sizeCode": {
+        "name": "sizeCode",
+        "values": ["Test"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": null
+      }
+    },
+    "currentWorkflowId": null,
+    "hasDraft": true,
+    "createdAt": "2024-03-06-13:33",
+    "createdBy": "tesla",
+    "lastModifiedAt": "2024-05-31-13:33",
+    "lastModifiedBy": "tesla"
+  },
+  {
+    "comboUID": "abfe4d6f-ab2c-4849-af2e-f4ee4767d28b",
+    "comboName": "New Combo_COPY_abfe",
+    "displayName": "Test",
+    "skuId": "4002_COPY_",
+    "status": "ENABLED",
+    "defaultMedia": "0032c30f-620b-47a8-b3ea-92b8113453be",
+    "media": [
+      "82dafc49-83fb-49d0-a21d-718aa31d9775",
+      "398e7c52-a8bc-49de-b736-f18edbf6e633",
+      "56cff74c-b355-4878-99c0-30a72f71eec4"
+    ],
+    "metadataMap": {
+      "cardSize": {
+        "name": "cardSize",
+        "values": ["small"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "productModel": {
+        "name": "productModel",
+        "values": ["PIZZA_MANIA"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "filterKeys": {
+        "name": "filterKeys",
+        "values": ["NonVeg"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "menuCode": {
+        "name": "menuCode",
+        "values": ["Test"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "isEDVCombo": {
+        "name": "isEDVCombo",
+        "values": ["YES"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": null
+      },
+      "menuCategoryCode": {
+        "name": "menuCategoryCode",
+        "values": ["MCT0001"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "foodLabel": {
+        "name": "foodLabel",
+        "values": ["CHEESE"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "topPickTags": {
+        "name": "topPickTags",
+        "values": ["Recommended"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": null
+      },
+      "sampel": {
+        "name": "sampel",
+        "values": ["1234"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": null
+      }
+    },
+    "currentWorkflowId": null,
+    "hasDraft": true,
+    "createdAt": "2023-12-06-08:18",
+    "createdBy": "tesla",
+    "lastModifiedAt": "2024-05-23-13:45",
+    "lastModifiedBy": "tesla"
+  },
+  {
+    "comboUID": "e7cf3bf6-b44d-4ebf-9441-24ac2cc78ebf",
+    "comboName": "New Combo",
+    "displayName": "Test",
+    "skuId": "4002",
+    "status": "ENABLED",
+    "defaultMedia": "fa67dac1-9c8a-416f-8e31-b7564e32a5c4",
+    "media": ["bfdd0ea0-c1a6-4d15-bddb-e16c67ff6ad9"],
+    "metadataMap": {
+      "cardSize": {
+        "name": "cardSize",
+        "values": ["small"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "productModel": {
+        "name": "productModel",
+        "values": ["PIZZA"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "comboCategory": {
+        "name": "comboCategory",
+        "values": ["ChristmasCombo"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": null
+      },
+      "filterKeys": {
+        "name": "filterKeys",
+        "values": ["NonVeg"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "menuCode": {
+        "name": "menuCode",
+        "values": ["Test"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "isEDVCombo": {
+        "name": "isEDVCombo",
+        "values": ["YES"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": null
+      },
+      "menuCategoryCode": {
+        "name": "menuCategoryCode",
+        "values": ["MCT0001"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "foodLabel": {
+        "name": "foodLabel",
+        "values": ["VEG"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "topPickTags": {
+        "name": "topPickTags",
+        "values": ["Recommended"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": null
+      }
+    },
+    "currentWorkflowId": null,
+    "hasDraft": true,
+    "createdAt": "2023-10-18-11:29",
+    "createdBy": "tesla",
+    "lastModifiedAt": "2024-01-08-08:13",
+    "lastModifiedBy": "tesla"
+  },
+  {
+    "comboUID": "1d19455f-9f40-4151-b5fc-96a7fef8dcd9",
+    "comboName": "jggs",
+    "displayName": "jggs",
+    "skuId": "111111",
+    "status": "ENABLED",
+    "defaultMedia": "e78b3884-99de-4c7b-a95e-939788e835e7",
+    "media": [],
+    "metadataMap": {
+      "cardSize": {
+        "name": "cardSize",
+        "values": ["small"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "productModel": {
+        "name": "productModel",
+        "values": ["PIZZA"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "filterKeys": {
+        "name": "filterKeys",
+        "values": ["nonbaked"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "menuCode": {
+        "name": "menuCode",
+        "values": ["817872"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "isEDVCombo": {
+        "name": "isEDVCombo",
+        "values": ["YES"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": null
+      },
+      "menuCategoryCode": {
+        "name": "menuCategoryCode",
+        "values": ["MCT0004"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "foodLabel": {
+        "name": "foodLabel",
+        "values": ["CHEESE"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "topPickTags": {
+        "name": "topPickTags",
+        "values": ["Recommended"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": null
+      }
+    },
+    "currentWorkflowId": null,
+    "hasDraft": true,
+    "createdAt": "2023-10-12-09:43",
+    "createdBy": "tesla",
+    "lastModifiedAt": "2023-10-12-09:43",
+    "lastModifiedBy": "tesla"
+  },
+  {
+    "comboUID": "b879024b-68cc-4df5-a714-c9d65ebcb9af",
+    "comboName": "jags",
+    "displayName": "ahsjjha",
+    "skuId": "81728",
+    "status": "ENABLED",
+    "defaultMedia": "ba0e75af-c985-44de-9e58-541d2f1c5524",
+    "media": [],
+    "metadataMap": {
+      "cardSize": {
+        "name": "cardSize",
+        "values": ["small"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "productModel": {
+        "name": "productModel",
+        "values": ["SIDES"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "filterKeys": {
+        "name": "filterKeys",
+        "values": ["baked"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "menuCode": {
+        "name": "menuCode",
+        "values": ["8218"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "isEDVCombo": {
+        "name": "isEDVCombo",
+        "values": ["YES"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": null
+      },
+      "menuCategoryCode": {
+        "name": "menuCategoryCode",
+        "values": ["MCT0002"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "foodLabel": {
+        "name": "foodLabel",
+        "values": ["CHEESE"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "topPickTags": {
+        "name": "topPickTags",
+        "values": ["Recommended"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": null
+      }
+    },
+    "currentWorkflowId": null,
+    "hasDraft": true,
+    "createdAt": "2023-10-11-14:27",
+    "createdBy": "tesla",
+    "lastModifiedAt": "2023-10-11-14:27",
+    "lastModifiedBy": "tesla"
+  },
+  {
+    "comboUID": "27312aec-499e-4a27-9a2a-650036c8c648",
+    "comboName": "combo1",
+    "displayName": "sjcom",
+    "skuId": "16565",
+    "status": "ENABLED",
+    "defaultMedia": "095b705a-8faa-4941-a505-c387452bc8f3",
+    "media": [],
+    "metadataMap": {
+      "cardSize": {
+        "name": "cardSize",
+        "values": ["small"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "productModel": {
+        "name": "productModel",
+        "values": ["PIZZA"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "filterKeys": {
+        "name": "filterKeys",
+        "values": ["NonVeg"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "menuCode": {
+        "name": "menuCode",
+        "values": ["982372"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "isEDVCombo": {
+        "name": "isEDVCombo",
+        "values": ["YES"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": null
+      },
+      "menuCategoryCode": {
+        "name": "menuCategoryCode",
+        "values": ["MCT0004"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "foodLabel": {
+        "name": "foodLabel",
+        "values": ["NONVEG"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "topPickTags": {
+        "name": "topPickTags",
+        "values": ["Recommended"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": null
+      }
+    },
+    "currentWorkflowId": null,
+    "hasDraft": true,
+    "createdAt": "2023-10-11-11:27",
+    "createdBy": "tesla",
+    "lastModifiedAt": "2023-10-11-11:27",
+    "lastModifiedBy": "tesla"
+  },
+  {
+    "comboUID": "b3f721d8-717a-40ee-884b-d3f0eb7741c5",
+    "comboName": "EDV Mix n Match",
+    "displayName": "EDV",
+    "skuId": "4330",
+    "status": "ENABLED",
+    "defaultMedia": null,
+    "media": null,
+    "metadataMap": {
+      "cardSize": {
+        "name": "cardSize",
+        "values": ["medium"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "productModel": {
+        "name": "productModel",
+        "values": ["PIZZA"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "filterKeys": {
+        "name": "filterKeys",
+        "values": ["NA"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "menuCode": {
+        "name": "menuCode",
+        "values": ["Test"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "isEDVCombo": {
+        "name": "isEDVCombo",
+        "values": ["YES"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": null
+      },
+      "menuCategoryCode": {
+        "name": "menuCategoryCode",
+        "values": ["MCT0001"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "foodLabel": {
+        "name": "foodLabel",
+        "values": ["COMBO"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": true
+      },
+      "topPickTags": {
+        "name": "topPickTags",
+        "values": ["Recommended"],
+        "label": "",
+        "groupName": "Default",
+        "isPartOfView": null
+      }
+    },
+    "currentWorkflowId": null,
+    "hasDraft": true,
+    "createdAt": "2023-09-14-09:21",
+    "createdBy": "tesla",
+    "lastModifiedAt": "2023-09-14-09:27",
+    "lastModifiedBy": "tesla"
+  }
+]
