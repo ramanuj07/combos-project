@@ -1,11 +1,11 @@
-import CombosDataTable from "./components/CombosDataTable";
+import CombosDataTable from "./components/ComboDataTable";
 
-function App() {
+const App = () => {
   return (
     <div>
       <CombosDataTable />
     </div>
   );
-}
+};
 
 export default App;
